@@ -1,0 +1,3 @@
+Cierre violento tc = 10 s, simulación = 15 min (900 s)
+
+[H, Q, z] = Transitorio( 220.0, 100.0, 5.0, 3000.0, 0.5e-3, 2500.0, 100.0, 10, 900 );
