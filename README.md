@@ -1,4 +1,4 @@
-# IC0922
+# IC-0922
 These are small scripts and programs developed to complete assignments in the IC0922 Hydraulic Engineering II course in the University of Costa Rica.
 
 * The "Channels" folder contains a macro-enabled Excel workbook where functions for calculating normal and critical depth in trapezoidal and circular channels have been implemented. The solution method is Newton-Raphson and Secant respectively. The Python file contains those same functions only as code.
